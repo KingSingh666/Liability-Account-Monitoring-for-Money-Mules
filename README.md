@@ -13,7 +13,8 @@ To combat this misuse, Bank A aims to develop an automated transaction monitorin
 5.	Model Selection and Training
 6.	Prediction on the Validation Data
 
-DATA DESCRIPTION
+##**DATA DESCRIPTION**
+
 The development data contains 1,00,000 savings account details with 178 feature columns consisting of-
 Primary key – The index of the accounts
 Target – 0 or 1 accounts identified as mules have target=1.
