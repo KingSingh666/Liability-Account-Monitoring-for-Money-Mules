@@ -25,4 +25,5 @@ Other attributes like product holding with the Bank, app / web logins etc.
 Some variable names have been provided. For other variables, demographic attributes start with “demog_”, transaction attributes start with “txn_” and the rest start with “others_”.
 The validation data consists of 50,000 savings account details with the same set of input variables but without “Target”.
 The feature columns contained 147 columns with float values, 18 columns with int values, 12 with categorical or object entries and a datetime column.
+https://drive.google.com/drive/folders/1mdVAQqukH1pzSjYz4kXnw2k6_Il90dD9
 
